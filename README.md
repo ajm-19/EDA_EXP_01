@@ -1,7 +1,7 @@
-'''
+```
 Name: AMALJOSH MAADHAV J
 Reg No: 212223230012
-'''
+```
 
 # Experiment 1: EDA in IPL Dataset
 ## Aim:
